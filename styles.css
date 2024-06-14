@@ -24,6 +24,7 @@ body {
 .principal {
     background-repeat: no-repeat;
     background-image: url("./IMGs/Background.png");
+    background-position: center;
     background-size: 100%;
     align-items: center ;
     text-align: center;
