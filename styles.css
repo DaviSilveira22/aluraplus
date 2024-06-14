@@ -2,7 +2,7 @@
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
-    --cor-de-fundo: #3f0e6d;
+    --cor-de-fundo: #00030C;
     --fonte-principal: "Inter";
     --botao-hover: #0d61c9;
     --botao-secundario-hover: #242d44c9;
@@ -183,7 +183,7 @@ padding: 5em 16em 0 16em;
 
     .secundario {
         align-items: center;
-        margin: 1em;
+        margin: -5em 1em;
     }
 
     .secundario__imagem {
